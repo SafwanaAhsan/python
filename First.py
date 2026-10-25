@@ -1,0 +1,6 @@
+print("Hi Victoria")
+print("Hi Jessica")
+print("How are you Jessica?")
+print("Im good what about you Victoria?")
+print("Im good thanks!")
+print("Ok bye Jessica!")
